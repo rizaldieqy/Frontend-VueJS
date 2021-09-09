@@ -1,2 +1,24 @@
-# Frontend-VueJS
-Ini adalah front-end menggunakan Vue JS (front-end dari repository BackendLaraVueJS6)
+# frontend-shop
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
